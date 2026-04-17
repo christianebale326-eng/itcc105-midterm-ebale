@@ -1,36 +1,30 @@
- AI-Powered Portal Pitch
+ Smart Portal AI Copilot
 
- Problem Statement
+ Problem Statement: Why is the old menu-based portal inefficient?
 
-The traditional menu-based portal is inefficient because it forces users to navigate through multiple layers of menus, buttons, and pages just to complete simple tasks. This leads to:
+The current student portal uses a menu-driven design that makes it difficult for users to quickly locate important information. Students are required to navigate through multiple layers of menus just to access basic details such as schedules, grades, announcements, and other academic records.
 
-- Time-consuming navigation
-- User confusion due to too many options
-- Poor user experience, especially for beginners
-- Difficulty in finding relevant information quickly
+This process consumes time and creates confusion, especially for first-time users. In addition, the system lacks adaptability since it provides the same fixed layout for all users without considering individual preferences or needs.
 
-Instead of helping users, the system makes them adjust to its structure, which reduces productivity and increases frustration.
+As a result, the system becomes inefficient and does not support fast, user-friendly access to information.
 
 
+ Industry 5.0 Justification: How will your AI empower humans rather than replace them?
 
- Industry 5.0 Justification
+The Smart Portal AI Copilot follows the principles of Industry 5.0, which emphasizes human-centric technology where humans and AI work together.
 
-This AI-powered portal follows the principles of Industry 5.0 by focusing on human-centric design. Instead of replacing humans, the AI acts as an assistant that supports and enhances human decision-making.
+Instead of replacing users, the AI acts as an intelligent assistant that supports students and staff by improving navigation, providing real-time assistance, and delivering relevant information based on user needs.
 
-- The AI understands user intent through natural language (chat or voice)
-- It provides personalized suggestions based on user needs
-- It reduces manual effort while keeping the user in control
-- It allows humans to focus on thinking and decision-making, not navigation
+It helps by automating repetitive tasks such as answering common inquiries and guiding users through the portal. This reduces workload and improves efficiency, while humans remain in control of decisions, system management, and improvements.
 
-In short, the AI works with humans, not instead of them.
+In this way, the system promotes collaboration between humans and AI, ensuring productivity while maintaining human oversight.
 
 
 
- Agile Requirements (User Stories)
+Agile Requirements (User Stories)
 
-1. As a student, I want to ask the AI questions directly, so that I can quickly get the information I need without navigating multiple menus.
+- As a Student, I want an AI-powered Smart Portal assistant, so that I can quickly access schedules, grades, and announcements without navigating multiple menus.
 
-2. As a user, I want the AI to suggest relevant options or actions, so that I can make faster and better decisions.
+- As a Student, I want the Smart Portal AI to support both English and Bisaya, so that I can communicate comfortably in my preferred language.
 
-3. As a first-time user, I want a simple chat-based interface, so that I can easily use the system without training or confusion.
-
+- As a Student, I want the AI to provide personalized responses, so that I receive relevant information based on my academic profile and needs.
